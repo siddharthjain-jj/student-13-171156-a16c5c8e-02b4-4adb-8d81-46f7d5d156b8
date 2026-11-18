@@ -1,0 +1,8 @@
+name: Local
+values:
+  - key: baseUrl
+    value: https://localhost:3000
+    enabled: true
+  - key: apiKey
+    value: "1234"
+    enabled: true
